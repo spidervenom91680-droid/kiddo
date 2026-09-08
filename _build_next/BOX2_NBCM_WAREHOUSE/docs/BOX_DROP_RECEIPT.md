@@ -1,0 +1,12 @@
+# BOX DROP RECEIPT — NBCM WAREHOUSE
+- datetime: 2026-09-08 13:26 EDT
+- package: `_build_next/NBCM_WAREHOUSE/` (16 files)
+- kind: forward overlay bootstrap — no live Kiddo mutation
+- keys in box: none stored (runtime may *read* host `XAI_API_KEY`; never written)
+- live Kiddo: not touched (HEAD 8669714, stash@{0} parked, origin ignored)
+- INSTALL: FORBIDDEN until operator says INSTALL NBCM
+- LAUNCH: FORBIDDEN until operator says RUN
+- KILL DUAL: not done
+- sandbox sim PASS 1: typecheck clean, smoke 200, hash 21c120e8… identical desktop/mobile
+- sandbox sim PASS 2: typecheck clean, smoke 200, **same hash** 21c120e8… — no flake
+- Kiddo-side restore + `_sim_nbcm` two-pass: still OpenCode PRE-APPLY (see OPENCODE_ORDER.md)
