@@ -6,6 +6,7 @@ Grab these from `spidervenom91680-droid/kiddo`. Forward packages only. **Change 
 |---|---|---|---|
 | 1 | [`BOX1_CATCH_UP/`](BOX1_CATCH_UP/) | ingest / chunk / budget / lyra-agent add-ons | **INSTALL CATCH_UP** |
 | 2 | [`BOX2_NBCM_WAREHOUSE/`](BOX2_NBCM_WAREHOUSE/) | VR warehouse overlay (brain, desks, Grok comms) | **INSTALL NBCM** |
+| 3 | [`BOX3_MARDUK/`](BOX3_MARDUK/) | Marduk risk core + local memory index | **INSTALL MARDUK** |
 
 Launch is a separate word: **RUN**. Dual pythonw kill is **KILL DUAL**. Keys never live in this tree.
 
